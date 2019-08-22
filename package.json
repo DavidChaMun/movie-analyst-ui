@@ -4,7 +4,8 @@
   "description": "ui for the movie analyst website....im totally not ripping this off.......",
   "scripts": {
     "test": "mocha",
-    "start": "nodemon server.js"
+    "start": "nodemon server.js",
+    "start-prod": "node server.js"
   },
   "repository": {
     "type": "git",
